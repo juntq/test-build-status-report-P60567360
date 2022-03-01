@@ -3,4 +3,4 @@ version: 0.2
 phases:
   build:
     commands:
-      - echo hello this is test 3 branch
+      - echo hello this is test 4 branch
